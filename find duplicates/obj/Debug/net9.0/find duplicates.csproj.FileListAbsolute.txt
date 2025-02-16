@@ -1,0 +1,14 @@
+C:\Users\DR NET SOH\Desktop\betwat Grad task\find duplicates\bin\Debug\net9.0\find duplicates.exe
+C:\Users\DR NET SOH\Desktop\betwat Grad task\find duplicates\bin\Debug\net9.0\find duplicates.deps.json
+C:\Users\DR NET SOH\Desktop\betwat Grad task\find duplicates\bin\Debug\net9.0\find duplicates.runtimeconfig.json
+C:\Users\DR NET SOH\Desktop\betwat Grad task\find duplicates\bin\Debug\net9.0\find duplicates.dll
+C:\Users\DR NET SOH\Desktop\betwat Grad task\find duplicates\bin\Debug\net9.0\find duplicates.pdb
+C:\Users\DR NET SOH\Desktop\betwat Grad task\find duplicates\obj\Debug\net9.0\find duplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DR NET SOH\Desktop\betwat Grad task\find duplicates\obj\Debug\net9.0\find duplicates.AssemblyInfoInputs.cache
+C:\Users\DR NET SOH\Desktop\betwat Grad task\find duplicates\obj\Debug\net9.0\find duplicates.AssemblyInfo.cs
+C:\Users\DR NET SOH\Desktop\betwat Grad task\find duplicates\obj\Debug\net9.0\find duplicates.csproj.CoreCompileInputs.cache
+C:\Users\DR NET SOH\Desktop\betwat Grad task\find duplicates\obj\Debug\net9.0\find duplicates.dll
+C:\Users\DR NET SOH\Desktop\betwat Grad task\find duplicates\obj\Debug\net9.0\refint\find duplicates.dll
+C:\Users\DR NET SOH\Desktop\betwat Grad task\find duplicates\obj\Debug\net9.0\find duplicates.pdb
+C:\Users\DR NET SOH\Desktop\betwat Grad task\find duplicates\obj\Debug\net9.0\find duplicates.genruntimeconfig.cache
+C:\Users\DR NET SOH\Desktop\betwat Grad task\find duplicates\obj\Debug\net9.0\ref\find duplicates.dll
